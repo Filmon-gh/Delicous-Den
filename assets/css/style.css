@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  border:none;
+}
+
+body {
+    font-family: Noto Sans, sans-serif;
+    font-weight: 300;
+  }
+
+    /*heading and logo*/
+header {
+  height: 85px;
+  background-color: bisque;
+  width: 100%; 
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
+ 
+
+}
+
+.logo {
+  color: #ee4005;
+  font-size: 40px;
+  font-weight:bold;
+  line-height: 80px;
+  padding: 0 50px;
+  margin-left: 70px;
+  
+}
+
+/*navigation links*/
+
+.nav-bar {
+  display: flex;
+  list-style-type: none;
+}
+
+.nav-bar a {
+  display: inline-block;
+  padding: 10px 30px;
+  margin: 0 50px;
+  font-weight: 500;
+  font-size: 1.2rem;
+}
+
+.nav-bar a:hover {
+  color: #ce9797;
+  
+}
+
+/*-background-image and cover text*/
+
+#background {
+ height: 550px;
+ width: 100%;
+ overflow: hidden;
+ padding-top: 10px;
+ position: relative;
+}
+
+#background-image {
+  height: 550px;
+  width: 100%;
+  background: url("../images/background.PNG"),url("../images/restaurant\ .pic.jpeg") ;
+  background-repeat: no-repeat ;
+  background-position: center left, right;
+  background-size: 50%;
+
+}
+
+#cover-text  {
+ color: rgb(49, 35, 173);
+ font-size: 150%;
+ font-weight: bold;
+ 
+ background-color: rgb(247, 239, 239, o.8);
+ 
+ 
+ width: 20%;
+ height: 25%;
+ 
+ top: 35%;
+ bottom: 50px;
+ right: 45%;
+
+ position: absolute;
+}
