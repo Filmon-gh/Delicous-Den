@@ -62,6 +62,7 @@ header {
  overflow: hidden;
  padding-top: 10px;
  position: relative;
+
 }
 
 #background-image {
@@ -82,8 +83,8 @@ header {
  background-color: rgb(247, 239, 239, o.8);
  
  
- width: 20%;
- height: 25%;
+ width: 200px;
+ height: 300px;
  
  top: 35%;
  bottom: 50px;
@@ -91,3 +92,52 @@ header {
 
  position: absolute;
 }
+
+/*About us section*/
+
+#About {
+  display: flex;
+  width: 100%;
+  padding-top: 5%;
+}
+
+.About-Us {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+ 
+
+}
+
+.About-Us-image {
+  flex: 1;
+  width: 400px;
+  height: 400px;
+  
+  margin-right: 20%;
+
+}
+
+.About-Us-image img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  object-fit: fill;
+  padding-top: 10%;
+ 
+
+}
+
+#About-Us h2  {
+font-size: 120%;
+font-weight: bold;
+
+}
+
+#About-Us p  {
+  font-size: 120%;
+  font-weight: bold;
+  text-align: justify;
+  
+  }
