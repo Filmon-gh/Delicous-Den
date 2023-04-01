@@ -141,3 +141,73 @@ font-weight: bold;
   text-align: justify;
   
   }
+
+  /*menu page*/
+
+  #heading {
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 50px;
+  
+    
+    }
+
+  .menu {
+  
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: aqua;
+    
+    
+  
+    
+    }
+
+    menu-box {
+      width: 20%;
+      margin-bottom: 50px;
+      border: 1px solid #ce9797;
+       
+  }
+
+  .menu-header {
+    text-align: center center;
+    padding: 50px 10px;
+  
+     
+}
+
+.Menu-content {
+  padding: 30px 10px;
+  font-size: 18px;
+  text-align: center;
+
+   
+}
+
+img {
+     width: 400px; 
+     height: 300px;
+     padding: 5px;
+    
+      
+ }
+
+ img:hover {
+  cursor: pointer;
+  opacity: 0.5;
+  
+ 
+ 
+   
+}
+
+p {
+  width: 300px; 
+  height: 200px;
+  padding: 5px;
+ 
+   
+}
