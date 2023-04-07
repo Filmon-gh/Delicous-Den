@@ -145,8 +145,9 @@ font-weight: bold;
 
   /* Default styles */
   #customer-review h2 {
-    justify-content: center;
     font-size: 30px;
+    margin-top: 30px;
+    text-align: center;
 
   }
 
@@ -167,7 +168,7 @@ font-weight: bold;
   .User-reviews {
     display: flex;
     margin-bottom: 40px;
-    background-color: #a86e2c;
+    background-color: #ebe4dd;
   
 
     
@@ -204,7 +205,7 @@ font-weight: bold;
     width: 20px;
     height: 20px;
     background-size: contain;
-    background-image: url('https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-star-512.png');
+    background-image: url('../images/starpic.webp');
     background-color: #b7e637;
     
     
