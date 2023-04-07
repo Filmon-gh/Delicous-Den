@@ -143,6 +143,67 @@ font-weight: bold;
   }
 
 
+  /* Default styles */
+  #Testimonials {
+    margin: 40px 0 0 20px ;
+
+  }
+  
+  #Testimonials h2 {
+    font-weight: 800;
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  
+  #Testimonials .User-reviews {
+    display: flex;
+    margin-bottom: 40px;
+  }
+  
+  #Testimonials .user-profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 20px;
+  }
+  
+  #Testimonials .user-profile img {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  #Testimonials .feedback {
+    flex: 1;
+  }
+  
+  #Testimonials .feedback p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  
+  #Testimonials .Star-rating {
+    display: flex;
+    align-items: center;
+  }
+  
+  .customer-reviews .Star-rating .star {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-image: url('https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-star-512.png');
+    background-size: contain;
+  }
+  
+  .customer-reviews .Star-rating .stars {
+    background-position: 0 -20px;
+  }
+  
+  
+
+
   /*footer*/
 
   .footernav {
