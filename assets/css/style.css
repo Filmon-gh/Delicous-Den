@@ -56,24 +56,43 @@ header {
 
 /*-background-image and cover text*/
 
-#background {
+.background {
  height: 550px;
  width: 100%;
  overflow: hidden;
- padding-top: 10px;
- position: relative;
 
 }
 
-#background-image {
-  height: 550px;
-  width: 100%;
-  background: url("../images/background.PNG"),url("../images/restaurant\ .pic.jpeg") ;
-  background-repeat: no-repeat ;
-  background-position: center left, right;
-  background-size: 50%;
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 100%;
+  }
 
+.background-image {
+    width: 50%;
+    height: 100%;
+   }
+
+
+.frist {
+    background-image: url("../images/background.PNG");
+    background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  }
+
+
+
+.second  {
+    background-image: url("../images/restaurant\ .pic.jpeg");
+    background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
+
+  
 
 #cover-text  {
  color: rgb(49, 35, 173);
@@ -143,10 +162,10 @@ font-weight: bold;
   }
 
 
-  /* Default styles */
+  /* customer-review */
   #customer-review h2 {
     font-size: 30px;
-    margin-top: 30px;
+    margin-top: 50px;
     text-align: center;
 
   }
@@ -191,8 +210,8 @@ font-weight: bold;
   
    .feedback p {
     font-size: 16px;
-    line-height: 1.5;
-    margin-bottom: 10px;
+    margin-bottom: 12px;
+    line-height: 1.6;
   }
   
    .Star-rating {
