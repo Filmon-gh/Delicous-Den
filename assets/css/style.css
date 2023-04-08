@@ -279,7 +279,7 @@ font-weight: bold;
   }
   #heading p {
     
-    font-size: 30px;
+    font-size: 1.5rem;
     padding-bottom: 20px;
     position: relative;
     
@@ -315,17 +315,8 @@ font-weight: bold;
   margin-bottom: 5px;
    
 }
-
-.single-menu  {
-  padding: 10px 0;
-  background-color: rgb(236, 188, 116);
-  text-transform: capitalize;
-  font-size: 25px;
-  font-weight: bold;
-  color: #180e0e;
-}
-
-
+    
+ 
 img {
      width: 100%;
      height: 300px;
