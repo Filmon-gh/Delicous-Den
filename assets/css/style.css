@@ -14,7 +14,7 @@ body {
     /*heading and logo*/
 header {
   height: 85px;
-  background-color:#e79ed7;
+  background-color: #ecc99a;
   width: 100%; 
   display: flex;
   align-items: center;
@@ -89,13 +89,13 @@ header {
 
 /*About us section*/
 .about-us-section {
-    background-color:  #e79ed7;
-    padding: 80px 0;
+    background-color:  #ecc99a;
+    padding: 20px 0;
     text-align: center;
   }
   
   .about-us-content {
-    max-width: 1200px;
+    max-width: 1600px;
     margin: 0 auto;
     display: flex;
     justify-content: center;
@@ -104,7 +104,7 @@ header {
   
   .about-us-text {
     width: 50%;
-    padding-right: 40px;
+    padding-right: 60px;
     box-sizing: border-box;
     text-align: left;
   }
@@ -112,12 +112,13 @@ header {
   .about-us-text h2 {
     font-size: 36px;
     margin-bottom: 20px;
+    text-align: end;
   }
   
   .about-us-text p {
     font-size: 18px;
     line-height: 1.5;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
   
   .about-us-image {
@@ -125,16 +126,24 @@ header {
     text-align: right;
   }
   
-  .about-us-image img {
-    max-width: 400px;
-    height: 500px;
-    border-radius: 50%; 
+  .about-us-image-customer img {
+   
+   
 
   object-fit: fill; 
 
   padding-top: 10%;
   }
 
+  .about-us-image img {
+    max-width: 300px;
+    height: 450px;
+    border-radius: 50%;
+
+  object-fit: fill; 
+
+  padding-top: 10%;
+  }
   
 
 
