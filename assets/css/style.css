@@ -14,7 +14,7 @@ body {
     /*heading and logo*/
 header {
   height: 85px;
-  background-color: bisque;
+  background-color:#e79ed7;
   width: 100%; 
   display: flex;
   align-items: center;
@@ -25,7 +25,7 @@ header {
 }
 
 .logo {
-  color: #ee4005;
+  color: #163496;
   font-size: 40px;
   font-weight:bold;
   line-height: 80px;
@@ -83,61 +83,65 @@ header {
 
   .text-container h1 {
     font-size: 2.5rem;
-    color: #dd6b6b;
+    color: #e79ed7;
 
   }
 
 /*About us section*/
-
-#About {
-  display: flex;
-  width: 100%;
-  padding-top: 5%;
-}
-
-.About-Us {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
- 
-
-}
-
-.About-Us-image {
-  flex: 1;
-  width: 400px;
-  height: 400px;
+.about-us-section {
+    background-color:  #e79ed7;
+    padding: 80px 0;
+    text-align: center;
+  }
   
-  margin-right: 20%;
+  .about-us-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .about-us-text {
+    width: 50%;
+    padding-right: 40px;
+    box-sizing: border-box;
+    text-align: left;
+  }
+  
+  .about-us-text h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  .about-us-text p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  .about-us-image {
+    width: 50%;
+    text-align: right;
+  }
+  
+  .about-us-image img {
+    max-width: 400px;
+    height: 500px;
+    border-radius: 50%; 
 
-}
+  object-fit: fill; 
 
-.About-Us-image img {
-  width: 100%;
-  height: 100%;
-  border-radius: 50%;
-  object-fit: fill;
   padding-top: 10%;
- 
-
-}
-
-#About-Us h2  {
-font-size: 120%;
-font-weight: bold;
-
-}
-
-#About-Us p  {
-  font-size: 120%;
-  font-weight: bold;
-  text-align: justify;
-  
   }
 
+  
 
-  /* customer-review */
+
+
+   
+
+/* customer-review */
   #customer-review h2 {
     font-size: 30px;
     margin-top: 50px;
