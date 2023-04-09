@@ -14,7 +14,7 @@ body {
     /*heading and logo*/
 header {
   height: 85px;
-  background-color: #e71d1dce;
+  background-color: #a73838f3;
   width: 100%; 
   display: flex;
   align-items: center;
@@ -86,15 +86,17 @@ header {
 
   .text-container h1 {
     font-size: 2.5rem;
-    color: #e71d1d;
+    color: #e71d1db7;
 
   }
 
 /*About us section*/
 .about-us-section {
-    background-color:  #ecc99a;
-    padding: 20px 0;
+    background-color:  #e5c499d7;
+    padding: 40px 0;
     text-align: center;
+    margin-top: 30px;
+    
     
     
   }
@@ -148,7 +150,7 @@ header {
 /* customer-review */
 
 #customer-review {
-    background-color: #6175b6b2;
+    background-color: #6475ac98;
 
 
   }
