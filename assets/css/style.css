@@ -62,12 +62,14 @@ header {
 .welcome-section {
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
   }
   
   .image-container {
-    width: 50%;
+    width: 100%;
+    max-width: 700px;
+
   }
   
   .image-container img {
@@ -77,11 +79,13 @@ header {
   }
   
   .text-container {
-    width: 50%;
+    width: 100%;
+    max-width: 700px;
     font-weight: bold;
-    padding: 0 20px;
+    padding: 50px;
     text-align: center;
     line-height: 1.5;
+    margin-left: 80px;
   }
 
   .text-container h1 {
@@ -413,6 +417,50 @@ form {
   /*media query*/
 
   @media screen and (max-width: 1200px) {
+
+    .welcome-section {
+        flex-direction: column;
+      }
+
+      .image-container {
+        max-width: 100%;
+      }
+    
+      .text-container {
+        max-width: 100%;
+        padding: 20px;
+      }
+
+      .logo {
+        font-size: 30px;
+        margin-left: 20px;
+      }
+    
+      .nav-bar {
+        display: none;
+      }
+    
+      .nav-bar div {
+        display: block;
+        margin-right: 20px;
+      }
+    
+      .nav-bar div a {
+        color: #fff;
+        font-size: 18px;
+        font-weight: bold;
+        transition: all 0.3s ease-in-out;
+      }
+    
+      .nav-bar div a:hover {
+        color: burlywood;
+      }
+
+
+
+
+
+
     #menu-box {
     flex-direction: column;
     align-items: center;
