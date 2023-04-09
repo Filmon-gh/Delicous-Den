@@ -91,7 +91,7 @@ header {
   }
 
 /*About us section*/
-.about-us-section {
+#about-us-section {
     background-color:  #e5c499d7;
     padding: 40px 0;
     text-align: center;
@@ -337,7 +337,7 @@ img {
 
 
 
-/*cotact us*/
+/*contact us*/
 
 form {
     width: 500px;
@@ -407,3 +407,30 @@ form {
     margin-right: 20px;
   }
   
+
+
+  /*media query*/
+
+  @media screen and (max-width: 1200px) {
+    #menu-box {
+    flex-direction: column;
+    align-items: center;
+    }
+
+    #menu-items {
+        width: 80%;
+        margin-bottom: 20px;
+    }
+
+    }
+
+    @media screen and (max-width: 800px) {
+        #menu-items {
+            font-size: 12px;
+        }
+        }
+
+
+
+
+    
