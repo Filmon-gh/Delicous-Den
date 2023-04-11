@@ -188,6 +188,9 @@ header {
 }
 
   /*footer*/
+.footernav {
+    text-align: center;
+    }
 
 .footernav li {
   display:inline;
