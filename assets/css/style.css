@@ -309,13 +309,23 @@ input[type="submit"]:hover {
   text-align:center;
 }
 .address-container {
-  display:inline-block;
   margin-top:20px;
+  display: flex;
+  justify-content:center;
+}
+
+.horizontal  {
+  display:inline-block;
+  margin-right:20px;
+  text-align:center;
 }
 .horizontal p {
   display:inline-block;
   margin-right:20px;
+  text-align:center;
 }
+
+
 
   /*media query welcome section */
 
