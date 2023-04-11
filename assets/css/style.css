@@ -129,6 +129,9 @@ header {
 
 /* customer-review */
 
+#customer-review {
+  background-color: #6475ac98;
+}
 #customer-review h2 {
   font-size:30px;
   margin-top:50px;
