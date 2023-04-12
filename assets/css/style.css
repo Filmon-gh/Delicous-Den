@@ -351,16 +351,19 @@ input[type="submit"]:hover {
     .welcome-section {
       flex-direction:column;
     }
+  
     .image-container {
       max-width:100%;
     }
-    .text-container {
+   /* .text-container {
       max-width:100%;
       padding:5%;
     }
+    */
     .head-container {
     max-width:100%;
   }
+  
 
   #about-us-section {
     padding:20px 0;
@@ -368,10 +371,10 @@ input[type="submit"]:hover {
   .about-us-content {
     flex-direction:column;
   }
-  .about-us-text,.about-us-image {
+ .about-us-text,.about-us-image {
     width:100%;
     text-align:center;
-  }
+  }*
   .about-us-image-customer img {
     padding-top:5%;
   }
@@ -398,12 +401,7 @@ input[type="submit"]:hover {
  
 }
   
-  @media screen and (max-width:1200px) {
-    .container {
-    max-width:960px;
-  }
-}
-  
+   
   @media screen and (max-width:965px) {
     .nav-bar {
     float:left;
