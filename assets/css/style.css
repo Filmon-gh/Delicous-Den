@@ -14,6 +14,7 @@ body {
     /*heading and logo*/
 header {
   box-sizing:border-box;
+  max-width: 100%;
   background-color:#a73838f3;
   top:0px;
   left:0px;
@@ -355,11 +356,11 @@ input[type="submit"]:hover {
     .image-container {
       max-width:100%;
     }
-   /* .text-container {
+   .text-container {
       max-width:100%;
       padding:5%;
     }
-    */
+    
     .head-container {
     max-width:100%;
   }
@@ -458,4 +459,9 @@ input[type="submit"]:hover {
   position:relative;
 }
 
+form {
+  
+  width:100%;
+  
+}
 }
