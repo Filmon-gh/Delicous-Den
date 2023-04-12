@@ -13,7 +13,6 @@ body {
 
     /*heading and logo*/
 header {
-  width:100%;
   box-sizing:border-box;
   background-color:#a73838f3;
   top:0px;
@@ -59,7 +58,8 @@ header {
 }
 .image-container {
   width:100%;
-  max-width:700px;
+ max-width:700px;
+ 
 }
 .image-container img {
   width:100%;
@@ -69,6 +69,7 @@ header {
 .text-container {
   width:100%;
   max-width:700px;
+  
   font-weight:bold;
   padding:50px;
   text-align:center;
@@ -302,6 +303,7 @@ input[type="submit"]:hover {
 .map-container {
   margin:20px auto;
   max-width:600px;
+  width: 100%;
   height:400px;
   overflow:hidden;
   position:relative;
@@ -360,8 +362,9 @@ input[type="submit"]:hover {
     max-width:100%;
   }
 
-  #about-us-section {
+ /* #about-us-section {
     padding:20px 0;
+    */
   }
   .about-us-content {
     flex-direction:column;
@@ -394,13 +397,13 @@ input[type="submit"]:hover {
    
   }
  
-}
-  /*
-  }@media screen and (max-width:1200px) {
+
+  
+  @media screen and (max-width:1200px) {
     .container {
     max-width:960px;
-  }*/
-
+  }
+}
   
   @media screen and (max-width:965px) {
     .nav-bar {
@@ -422,5 +425,41 @@ input[type="submit"]:hover {
     position:relative;
   }
 
+
+}
+
+@media screen and (max-width:600px) {
+
+  header {
+    box-sizing:border-box;
+    max-width: 100%;
+    background-color:#a73838f3;
+    top:0px;
+    left:0px;
+    overflow:hidden;
+  }
+  .logo {
+    float:left;
+    font-size:100%;
+    margin: left 0%;;
+    line-height:35px;
+    color:#e0dd1eb6;
+    font-weight:bold;
+  }
+  .nav-bar {
+  float:left;
+  clear:left;
+  line-height:15px;
+  margin-left:10px;
+  margin-bottom:10px;
+}
+
+.map-container {
+  margin:20px auto;
+  max-width: 100%;
+  height:400px;
+  overflow:hidden;
+  position:relative;
+}
 
 }
