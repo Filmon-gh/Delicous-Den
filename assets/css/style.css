@@ -68,9 +68,7 @@ header {
   object-fit:cover;
 }
 .text-container {
-  width:100%;
   max-width:700px;
-  
   font-weight:bold;
   padding:50px;
   text-align:center;
@@ -208,7 +206,7 @@ header {
 
   #our-menu {
     max-width:1200px;
-    margin:100px auto;
+    margin:5% auto;
   }
   #heading {
     text-align:center;
@@ -404,12 +402,12 @@ input[type="submit"]:hover {
   
    
   @media screen and (max-width:965px) {
-    .nav-bar {
-    float:left;
-    clear:left;
-    line-height:25px;
-    margin-left:20px;
-    margin-bottom:20px;
+   
+
+  /*food menu*/
+
+  .menu-items {
+    width:35%;
   }
 
   .menu-header {
@@ -427,6 +425,15 @@ input[type="submit"]:hover {
 }
 
 @media screen and (max-width:600px) {
+
+
+  .nav-bar {
+    float:left;
+    clear:left;
+    line-height:25px;
+    margin-left:20px;
+    margin-bottom:20px;
+  }
 
   header {
   box-sizing:border-box;
@@ -451,6 +458,13 @@ input[type="submit"]:hover {
   margin-bottom:10px;
 }
 
+/*food menu*/
+
+.menu-items {
+  width:60%;
+}
+
+
 .map-container {
   margin:20px auto;
   max-width: 100%;
@@ -465,3 +479,20 @@ form {
   
 }
 }
+
+@media screen and (max-width:400px) {
+  /*food menu*/
+
+.menu-items {
+  width:80%;
+}
+
+.nav-bar li {
+  margin-right:10px;
+  float:right;
+  line-height:75px;
+}
+
+
+}
+
