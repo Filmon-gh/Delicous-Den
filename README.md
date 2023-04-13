@@ -21,7 +21,7 @@ The logo are critical elements of the website's design is Located prominently on
 
 # Header 
 
-![App Screenshot](https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/49a745e4a1e8cf8c61fd871f8e18a06d78f0764a/screenshots/screenshotimge/4.%20Customer%20review.JPG)
+![App Screenshot](https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/49a745e4a1e8cf8c61fd871f8e18a06d78f0764a/screenshots/screenshotimge/2.%20Header.JPG)
  The website header provides a captivating preview of the content to customers visiting the website. It effectively communicates a welcoming message, and it provides an overview of the exceptional dining experience that awaits customers upon visiting the Delicious-Den restaurant. 
 
 The image depicting the Chef preparing dishes, positioned on the left side of the section, serves as a visual representation of the inviting and welcoming experience that customers can expect at the Delicious Den Restaurant. 
@@ -39,7 +39,7 @@ The section also features two illustrative images that effectively convey the wa
 
 
 # Customer review
-![App Screenshot](https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/a0d2d47816406134f2a15b87923bae697fea800e/screenshotimge/4.%20Customer%20review.JPG)
+![App Screenshot](https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/49a745e4a1e8cf8c61fd871f8e18a06d78f0764a/screenshots/screenshotimge/4.%20Customer%20review.JPG)
 
 
 
