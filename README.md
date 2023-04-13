@@ -61,7 +61,7 @@ The section also features two illustrative images that effectively convey the wa
 
 
 
-## Roadmap
+
 
 - The customer reviews section displays comments left by customers. This allows potential customers to get an insight into the dining experience and the quality of the food and service. The section displays reviews with dates, people's profile pictures, and their comments. 
 
@@ -70,3 +70,10 @@ The section also features two illustrative images that effectively convey the wa
 
 In addition to the features listed above, the customer review section also includes a rating system that allows customers to rate their dining experience on a scale of 1-5 stars. 
 
+#Footer 
+
+In the website's footer section, located in the center of the bottom of the page, there are three links to social media profiles on Instagram, Facebook, and Twitter.  
+
+The social media links Increase brand visibility, engagement with customers, and promotion of special offers and events
+
+![App Screenshot](https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/49a745e4a1e8cf8c61fd871f8e18a06d78f0764a/screenshots/screenshotimge/8.%20footer.JPG)
