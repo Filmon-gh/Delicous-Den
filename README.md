@@ -84,3 +84,18 @@ The social media links Increase brand visibility, engagement with customers, and
 - The menu section of the Delicious-Den restaurant's website provides a comprehensive overview of the food items offered, including vivid imagery showcasing the constituent ingredients, names, and pricing. 
 
 -  The menu layout has been thoughtfully designed to provide optimal visual appeal. Each row of menu items is presented in a concise and clear manner, allowing customers to easily navigate through the options available. 
+
+# Contact Us 
+- The contact Us form Provides an easy way for customers to get in touch:  It allows the restaurant to receive inquiries and feedback in a structured and organized manner. It can also be used to allow customers to make reservation requests. 
+
+- The contact us form included on this webpage is comprised of fields for the user's full name, email address, phone number, and message, with all fields required for completion.  
+
+- Upon submission of the form, the user is presented with a confirmation message
+![App Screenshot](https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/49a745e4a1e8cf8c61fd871f8e18a06d78f0764a/screenshots/screenshotimge/5.Contact%20form.JPG)
+
+# Our location 
+-The webpage features a dedicated section that showcases a Google Maps integration, providing users with an interactive and visually rich means of locating the Delicious-Den restaurant.  
+
+-Furthermore, this section contains a written account of the restaurant's address to enhance clarity and facilitate easy navigation for interested visitors. 
+ Additionally, the section is also designed to prominently display the operational hours of the restaurant, thereby enabling prospective diners to plan their visit with greater convenience and precision. 
+ ![App Screenshot](https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/49a745e4a1e8cf8c61fd871f8e18a06d78f0764a/screenshots/screenshotimge/6.%20google%20map%20and%20contact.JPG)
