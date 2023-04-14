@@ -1,17 +1,18 @@
 
-#      Delicous-Den      
+#  Delicous-Den      
 
 Delicous-Den is a restaurant located in the city of Aachen, Germany, that offers quality food to both customers and visitors. The purpose of this website is to provide customers with the necessary information and details about the restaurant's services and offerings. The website will give customers an insight into the restaurant's location, food menus, online access for contacting the restaurant, contact information, and customer review information. 
 
 
 
 
-## 
+
 ![App Screenshot](https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/a0d2d47816406134f2a15b87923bae697fea800e/screenshotimge/intro.JPG)
 
  
 
-# user story for the website : 
+## User stories
+The user story for the development of the Delicious-Den website has been crafted to ensure that the website effectively meets the needs of its target audience. The following user stories have been identified: 
 
 - As a potential customer, I want to easily find the restaurant's menu, so that I can decide what to order and plan my meal ahead of time 
 
@@ -23,23 +24,24 @@ Delicous-Den is a restaurant located in the city of Aachen, Germany, that offers
 
 - As a first-time customer, I want to write a message to the restaurant's webpage to ask about their menu options and to write a message to the webpage to give feedback on my recent dining experience. 
 
+
 # Features
-## Navigation Link 
 
-The navigation menu consists of links to Home, About, Menu, and Contact Us sections, making it easy for visitors to explore the website and find the information they are looking for. 
+### Navigation Link 
 
-The navigation links stand out with clear and concise wording, visitors can quickly locate and navigate through the different sections of the website, which can enhance the user experience and promote customer engagement. 
-
-The logo are critical elements of the website's design is Located prominently on the left-hand side of the web page; serves as an important visual cue. Clicking on the logo redirects the visitor to the main home page, ensuring seamless and easy navigation throughout the website. 
+- The navigation menu consists of links to Home, About, Menu, and Contact  sections, making it easy for visitors to explore the website and find the information they are looking for.The navigation links stand out with clear and concise wording, visitors can quickly locate and navigate through the different sections of the website, which can enhance the user experience and promote customer engagement. 
 
 ![App Screenshot](https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/a0d2d47816406134f2a15b87923bae697fea800e/screenshotimge/1.%20logo%20and%20navigation.JPG)
 
-# Header 
+- The logo are critical elements of the website's design is Located prominently on the left-hand side of the web page; serves as an important visual cue. Clicking on the logo redirects the visitor to the main home page, ensuring seamless and easy navigation throughout the website. 
+
+
+
+
+## Header 
 
 ![App Screenshot](https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/49a745e4a1e8cf8c61fd871f8e18a06d78f0764a/screenshots/screenshotimge/2.%20Header.JPG)
- The website header provides a captivating preview of the content to customers visiting the website. It effectively communicates a welcoming message, and it provides an overview of the exceptional dining experience that awaits customers upon visiting the Delicious-Den restaurant. 
-
-The image depicting the Chef preparing dishes, positioned on the left side of the section, serves as a visual representation of the inviting and welcoming experience that customers can expect at the Delicious Den Restaurant. 
+- The website header provides a captivating preview of the content to customers visiting the website. It effectively communicates a welcoming message, and              it provides an overview of the exceptional dining experience that awaits customers upon visiting the Delicious-Den restaurant. The image depicting the                  Chef preparing dishes, positioned on the left side of the section, serves as a visual representation of the inviting and welcoming experience that                      customers can expect at the Delicious Den Restaurant. 
 
 
 
