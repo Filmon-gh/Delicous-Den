@@ -57,7 +57,7 @@ The section also features two illustrative images that effectively convey the wa
 
 # Customer Review
 
- <img src="https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/49a745e4a1e8cf8c61fd871f8e18a06d78f0764a/screenshots/screenshotimge/4.%20Customer%20review.JPG"  height="600" width="500" /> 
+ <img src="https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/49a745e4a1e8cf8c61fd871f8e18a06d78f0764a/screenshots/screenshotimge/4.%20Customer%20review.JPG"  height="300"/> 
 
 
 
@@ -71,6 +71,13 @@ The section also features two illustrative images that effectively convey the wa
 
 In addition to the features listed above, the customer review section also includes a rating system that allows customers to rate their dining experience on a scale of 1-5 stars. 
 
+# Footer 
+
+In the website's footer section, located in the center of the bottom of the page, there are three links to social media profiles on Instagram, Facebook, and Twitter.  
+
+The social media links Increase brand visibility, engagement with customers, and promotion of special offers and events
+
+![App Screenshot](https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/49a745e4a1e8cf8c61fd871f8e18a06d78f0764a/screenshots/screenshotimge/8.%20footer.JPG)
 
 # Menu 
  <img src="https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/49a745e4a1e8cf8c61fd871f8e18a06d78f0764a/screenshots/screenshotimge/7.%20menu.JPG"  height="600" width="500" /> 
@@ -81,11 +88,10 @@ In addition to the features listed above, the customer review section also inclu
 
 # Contact Us 
 <img src="https://github.com/Filmon-gh/Delicous-Restuarant/blob/main/screenshots/5.Contact%20form.JPG?raw=true" width="350"  height="400" /> 
- - The contact Us form Provides an easy way for customers to get in touch:  It allows the restaurant to receive inquiries and feedback in a structured and organized manner. It can also be used to allow customers to make reservation requests. The contact us form included on this webpage is comprised of fields for the user's full name, email address, phone number, and message, with all fields required for completion.   Upon submission of the form, the user is presented with a confirmation message.
-
+ - The contact Us form Provides an easy way for customers to get in touch:  It allows the restaurant to receive inquiries and feedback in a structured and organized manner. It can also be used to allow customers to make reservation requests. 
+ The contact us form included on this webpage is comprised of fields for the user's full name, email address, phone number, and message, with all fields required for completion. 
+ Upon submission of the form, the user is presented with a confirmation message.
  
-
-
 # Our location 
 
  <img src="https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/49a745e4a1e8cf8c61fd871f8e18a06d78f0764a/screenshots/screenshotimge/6.%20google%20map%20and%20contact.JPG" width="400"/> 
@@ -93,12 +99,9 @@ In addition to the features listed above, the customer review section also inclu
 The webpage features a dedicated section that showcases a Google Maps integration, providing users with an interactive and visually rich means of locating the Delicious-Den restaurant.Furthermore, this section contains a written account of the restaurant's address to enhance clarity and facilitate easy navigation for interested visitors. 
 Additionally, the section is also designed to prominently display the operational hours of the restaurant, thereby enabling prospective diners to plan their visit with greater convenience and precision. 
 
-# Footer 
 
-In the website's footer section, located in the center of the bottom of the page, there are three links to social media profiles on Instagram, Facebook, and Twitter.  
-
-The social media links Increase brand visibility, engagement with customers, and promotion of special offers and events
-
-![App Screenshot](https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/49a745e4a1e8cf8c61fd871f8e18a06d78f0764a/screenshots/screenshotimge/8.%20footer.JPG)
+## Features Left to Implement
+ - Online ordering and payment: Implement an online ordering and payment system that enables consumers to place orders and pay for them directly on the restaurant's website.
+ - User accounts and profile: Permit users to set up profiles and accounts so that you may save their payment information, order history, and preferences for quicker checkout in the future.
 
  
