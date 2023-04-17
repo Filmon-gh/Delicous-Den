@@ -101,7 +101,26 @@ Additionally, the section is also designed to prominently display the operationa
 
 
 ## Features Left to Implement
- - Online ordering and payment: Implement an online ordering and payment system that enables consumers to place orders and pay for them directly on the restaurant's website.
- - User accounts and profile: Permit users to set up profiles and accounts so that you may save their payment information, order history, and preferences for quicker checkout in the future.
+ - Online ordering and payment: 
+            Implement an online ordering and payment system that enables consumers to place orders and pay for them directly on the restaurant's website.
+ - User accounts and profile: 
+        Permit users to set up profiles and accounts so that you may save their payment information, order history, and preferences for quicker checkout in the future.
 
+# Testing 
+
+During the development process, the web pages is thoroughly tested to ensure its reliability and usability.   
+
+ - The navigation links were tested to ensure that users could easily navigate through the website and find the relevant pages. It is also made sure that it is clearly visible to users on different devices. 
+
+ - The social media icons were also tested to ensure that users could easily navigate through the website and access the social media pages. 
+
+ - The Contact Us form tested to ensure that all fields were working correctly, and the form's data was also checked to ensure that it was properly checking for required fields and validating input data, such as email addresses and phone numbers. 
+
+ - In addition, the Submit button also checked to ensure that the confirmation page is working correctly. This was done to ensure that users would receive a clear confirmation message after submitting the form, providing them with the necessary feedback. 
+
+ - The Google Maps integration tested in the web page to ensure the display of the correct location, street view, and directions functionality.   
+
+The responsiveness of our web pages is also thoroughly tested to ensure that they can be easily accessed and navigated on different devices. The testing process involved checking the layout and design of the website across a range of devices, including laptops, tablets, and smartphones, to ensure that users could access and interact with the website seamlessly. 
+
+During the testing process, I identified and resolved any issues related to the responsiveness of the web pages layout and design
  
