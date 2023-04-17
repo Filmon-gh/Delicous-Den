@@ -56,9 +56,8 @@ The section also features two illustrative images that effectively convey the wa
 
 
 # Customer Review
-![App Screenshot](https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/49a745e4a1e8cf8c61fd871f8e18a06d78f0764a/screenshots/screenshotimge/4.%20Customer%20review.JPG)
 
-
+ <img src="https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/49a745e4a1e8cf8c61fd871f8e18a06d78f0764a/screenshots/screenshotimge/4.%20Customer%20review.JPG"  height="600" width="500" /> 
 
 
 
