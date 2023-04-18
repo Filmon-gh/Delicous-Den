@@ -76,7 +76,7 @@ The social media links Increase brand visibility, engagement with customers, and
 ## Contact Us 
 <img src="https://github.com/Filmon-gh/Delicous-Restuarant/blob/main/screenshots/5.Contact%20form.JPG?raw=true" width="350"  height="400" /> 
  - The contact Us form Provides an easy way for customers to get in touch:  It allows the restaurant to receive inquiries and feedback in a structured and organized manner. It can also be used to allow customers to make reservation requests. 
- The contact us form included on this webpage is comprised of fields for the user's full name, email address, phone number, and message, with all fields required for completion. 
+ - The contact us form included on this webpage is comprised of fields for the user's full name, email address, phone number, and message, with all fields required for completion. 
  Upon submission of the form, the user is presented with a confirmation message.
  
 ## Our location and hours
@@ -85,7 +85,7 @@ The social media links Increase brand visibility, engagement with customers, and
 The webpage features a dedicated section that showcases a Google Maps integration, providing users with an interactive and visually rich means of locating the Delicious-Den restaurant.Furthermore, this section contains a written account of the restaurant's address to enhance clarity and facilitate easy navigation for interested visitors. 
 Additionally, the section is also designed to prominently display the operational hours of the restaurant, thereby enabling prospective diners to plan their visit with greater convenience and precision. 
 
-### Features Left to Implement
+### Features to be added in the future
  - Online ordering and payment: 
             Implement an online ordering and payment system that enables consumers to place orders and pay for them directly on the restaurant's website.
  - User accounts and profile: 
