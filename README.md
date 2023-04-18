@@ -56,9 +56,8 @@ The section also features two illustrative images that effectively convey the wa
 
 
 # Customer Review
-![App Screenshot](https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/49a745e4a1e8cf8c61fd871f8e18a06d78f0764a/screenshots/screenshotimge/4.%20Customer%20review.JPG)
 
-
+ <img src="https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/49a745e4a1e8cf8c61fd871f8e18a06d78f0764a/screenshots/screenshotimge/4.%20Customer%20review.JPG"  height="300"/> 
 
 
 
@@ -72,6 +71,13 @@ The section also features two illustrative images that effectively convey the wa
 
 In addition to the features listed above, the customer review section also includes a rating system that allows customers to rate their dining experience on a scale of 1-5 stars. 
 
+# Footer 
+
+In the website's footer section, located in the center of the bottom of the page, there are three links to social media profiles on Instagram, Facebook, and Twitter.  
+
+The social media links Increase brand visibility, engagement with customers, and promotion of special offers and events
+
+![App Screenshot](https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/49a745e4a1e8cf8c61fd871f8e18a06d78f0764a/screenshots/screenshotimge/8.%20footer.JPG)
 
 # Menu 
  <img src="https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/49a745e4a1e8cf8c61fd871f8e18a06d78f0764a/screenshots/screenshotimge/7.%20menu.JPG"  height="600" width="500" /> 
@@ -82,11 +88,10 @@ In addition to the features listed above, the customer review section also inclu
 
 # Contact Us 
 <img src="https://github.com/Filmon-gh/Delicous-Restuarant/blob/main/screenshots/5.Contact%20form.JPG?raw=true" width="350"  height="400" /> 
- - The contact Us form Provides an easy way for customers to get in touch:  It allows the restaurant to receive inquiries and feedback in a structured and organized manner. It can also be used to allow customers to make reservation requests. The contact us form included on this webpage is comprised of fields for the user's full name, email address, phone number, and message, with all fields required for completion.   Upon submission of the form, the user is presented with a confirmation message.
-
+ - The contact Us form Provides an easy way for customers to get in touch:  It allows the restaurant to receive inquiries and feedback in a structured and organized manner. It can also be used to allow customers to make reservation requests. 
+ The contact us form included on this webpage is comprised of fields for the user's full name, email address, phone number, and message, with all fields required for completion. 
+ Upon submission of the form, the user is presented with a confirmation message.
  
-
-
 # Our location 
 
  <img src="https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/49a745e4a1e8cf8c61fd871f8e18a06d78f0764a/screenshots/screenshotimge/6.%20google%20map%20and%20contact.JPG" width="400"/> 
@@ -94,12 +99,28 @@ In addition to the features listed above, the customer review section also inclu
 The webpage features a dedicated section that showcases a Google Maps integration, providing users with an interactive and visually rich means of locating the Delicious-Den restaurant.Furthermore, this section contains a written account of the restaurant's address to enhance clarity and facilitate easy navigation for interested visitors. 
 Additionally, the section is also designed to prominently display the operational hours of the restaurant, thereby enabling prospective diners to plan their visit with greater convenience and precision. 
 
-# Footer 
 
-In the website's footer section, located in the center of the bottom of the page, there are three links to social media profiles on Instagram, Facebook, and Twitter.  
+## Features Left to Implement
+ - Online ordering and payment: 
+            Implement an online ordering and payment system that enables consumers to place orders and pay for them directly on the restaurant's website.
+ - User accounts and profile: 
+        Permit users to set up profiles and accounts so that you may save their payment information, order history, and preferences for quicker checkout in the future.
 
-The social media links Increase brand visibility, engagement with customers, and promotion of special offers and events
+# Testing 
 
-![App Screenshot](https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/49a745e4a1e8cf8c61fd871f8e18a06d78f0764a/screenshots/screenshotimge/8.%20footer.JPG)
+During the development process, the web pages is thoroughly tested to ensure its reliability and usability.   
 
+ - The navigation links were tested to ensure that users could easily navigate through the website and find the relevant pages. It is also made sure that it is clearly visible to users on different devices. 
+
+ - The social media icons were also tested to ensure that users could easily navigate through the website and access the social media pages. 
+
+ - The Contact Us form tested to ensure that all fields were working correctly, and the form's data was also checked to ensure that it was properly checking for required fields and validating input data, such as email addresses and phone numbers. 
+
+ - In addition, the Submit button also checked to ensure that the confirmation page is working correctly. This was done to ensure that users would receive a clear confirmation message after submitting the form, providing them with the necessary feedback. 
+
+ - The Google Maps integration tested in the web page to ensure the display of the correct location, street view, and directions functionality.   
+
+The responsiveness of our web pages is also thoroughly tested to ensure that they can be easily accessed and navigated on different devices. The testing process involved checking the layout and design of the website across a range of devices, including laptops, tablets, and smartphones, to ensure that users could access and interact with the website seamlessly. 
+
+During the testing process, I identified and resolved any issues related to the responsiveness of the web pages layout and design
  
