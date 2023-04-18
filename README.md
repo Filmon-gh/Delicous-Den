@@ -130,8 +130,9 @@ To resolve this issue, I changed the aspect ratio of the width and height of the
  - CSS : After running the code through the official (Jigsaw) Validator, no errors were found.
  
  Accessibility: By running the project through Lighthouse, I have confirmed that the chosen colors and font size are easy to read and accessible.
-![App Screenshot](https://github.com/Filmon-gh/Delicous-Den/blob/main/screenshots/lighthouse2.JPG?raw=true)
-![App Screenshot](https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/529d6e06d580f2639b1ad1c3b5c60c564e3fe14a/screenshots/cilighthouse.JPG)
+  <img src="https://github.com/Filmon-gh/Delicous-Den/blob/main/screenshots/lighthouse2.JPG?raw=true"  width="500"/>
+  <img src="https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/529d6e06d580f2639b1ad1c3b5c60c564e3fe14a/screenshots/cilighthouse.JPG"/>
+
 
 ## Deployment 
 The website has been successfully deployed on GitHub Pages. Here are the steps that were followed to deploy the website:
