@@ -135,5 +135,6 @@ The website has been successfully deployed on GitHub Pages. Here are the steps t
 
 # Credits 
 
-
+The code for creating social media links obtained from the "Ci Love Running" project.
  
+The navigation link was also made by referencing the CL Love Running Project section.
