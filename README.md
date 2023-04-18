@@ -3,13 +3,7 @@
 
 Delicous-Den is a restaurant located in the city of Aachen, Germany, that offers quality food to both customers and visitors. The purpose of this website is to provide customers with the necessary information and details about the restaurant's services and offerings. The website will give customers an insight into the restaurant's location, food menus, online access for contacting the restaurant, contact information, and customer review information. 
 
-
-
-
 <img src="https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/a0d2d47816406134f2a15b87923bae697fea800e/screenshotimge/intro.JPG"  width="900" /> 
-
-
- 
 
 ## User stories
 The user story for the development of the Delicious-Den website has been crafted to ensure that the website effectively meets the needs of its target audience. The following user stories have been identified: 
@@ -93,12 +87,10 @@ The social media links Increase brand visibility, engagement with customers, and
  Upon submission of the form, the user is presented with a confirmation message.
  
 # Our location 
-
  <img src="https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/49a745e4a1e8cf8c61fd871f8e18a06d78f0764a/screenshots/screenshotimge/6.%20google%20map%20and%20contact.JPG" width="400"/> 
 
 The webpage features a dedicated section that showcases a Google Maps integration, providing users with an interactive and visually rich means of locating the Delicious-Den restaurant.Furthermore, this section contains a written account of the restaurant's address to enhance clarity and facilitate easy navigation for interested visitors. 
 Additionally, the section is also designed to prominently display the operational hours of the restaurant, thereby enabling prospective diners to plan their visit with greater convenience and precision. 
-
 
 ## Features Left to Implement
  - Online ordering and payment: 
@@ -123,4 +115,16 @@ During the development process, the web pages is thoroughly tested to ensure its
 The responsiveness of the web pages is also thoroughly tested to ensure that they can be easily accessed and navigated on different devices. The testing process involved checking the layout and design of the website across a range of devices, including laptops, tablets, and smartphones, to ensure that users could access and interact with the website seamlessly. 
 
 During the testing process, I identified and resolved any issues related to the responsiveness of the web pages layout and design.
+
+#Bugs
+
+
+
+#Validator Testing
+ - HTML --fter running the code through the official W3C validator, no errors were found.
+ - CSS --After running the code through the official (Jigsaw) alidator, no errors were found.
+
+
+
+
  
