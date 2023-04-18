@@ -120,7 +120,7 @@ During the development process, the web pages is thoroughly tested to ensure its
 
  - The Google Maps integration tested in the web page to ensure the display of the correct location, street view, and directions functionality.   
 
-The responsiveness of our web pages is also thoroughly tested to ensure that they can be easily accessed and navigated on different devices. The testing process involved checking the layout and design of the website across a range of devices, including laptops, tablets, and smartphones, to ensure that users could access and interact with the website seamlessly. 
+The responsiveness of the web pages is also thoroughly tested to ensure that they can be easily accessed and navigated on different devices. The testing process involved checking the layout and design of the website across a range of devices, including laptops, tablets, and smartphones, to ensure that users could access and interact with the website seamlessly. 
 
-During the testing process, I identified and resolved any issues related to the responsiveness of the web pages layout and design
+During the testing process, I identified and resolved any issues related to the responsiveness of the web pages layout and design.
  
