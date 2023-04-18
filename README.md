@@ -51,7 +51,7 @@ The section also features two illustrative images that effectively convey the wa
 
 ## Customer Review
 
- <img src="https://github.com/Filmon-gh/Delicous-Restuarant/blob/main/screenshots/customer%20feedback.JPG?raw=true"  height="300"/> 
+ <img src="https://github.com/Filmon-gh/Delicous-Restuarant/blob/main/screenshots/customer%20feedback.JPG?raw=true"  height="250"/> 
 
 
 
