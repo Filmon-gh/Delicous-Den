@@ -182,9 +182,9 @@ header {
 }
 
 .user-profile img {
-  height:40px;
+  height:60px;
   width:40px;
-  border-radius:50%;
+  border-radius:35%;
   margin-bottom:10px;
 }
 
