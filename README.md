@@ -125,6 +125,7 @@ During the testing process, I identified and resolved any issues related to the 
  - CSS --After running the code through the official (Jigsaw) alidator, no errors were found.
 
 
+![App Screenshot](https://github.com/Filmon-gh/Delicous-Restuarant/blob/main/screenshots/lighthouse.JPG?raw=true)
 
 
  
