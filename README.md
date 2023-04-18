@@ -133,4 +133,7 @@ During the testing process, I identified and resolved any issues related to the 
 The website has been successfully deployed on GitHub Pages. Here are the steps that were followed to deploy the website:
  - Navigated to the "Settings" page and select "Main" from the dropdown menu under "Source" to choose the main branch in the GitHub repository. Once selected on the main branch, GitHub Pages  provide a URL to the completed website.
 
+# Credits 
+
+
  
