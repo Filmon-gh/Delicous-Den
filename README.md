@@ -85,7 +85,7 @@ The social media links Increase brand visibility, engagement with customers, and
 The webpage features a dedicated section that showcases a Google Maps integration, providing users with an interactive and visually rich means of locating the Delicious-Den restaurant.Furthermore, this section contains a written account of the restaurant's address to enhance clarity and facilitate easy navigation for interested visitors. 
 Additionally, the section is also designed to prominently display the operational hours of the restaurant, thereby enabling prospective diners to plan their visit with greater convenience and precision. 
 
-### Features to be added in the future
+## Features to be added in the future
  - Online ordering and payment: 
             Implement an online ordering and payment system that enables consumers to place orders and pay for them directly on the restaurant's website.
  - User accounts and profile: 
@@ -128,9 +128,8 @@ To resolve this issue, I changed the aspect ratio of the width and height of the
 ## Validator Testing
  - HTML : After running the code through the official W3C validator, no errors were found.
  - CSS : After running the code through the official (Jigsaw) Validator, no errors were found.
- - Accessibility: By running the project through Lighthouse, I have confirmed that the chosen colors and font size are easy to read and accessible.
-
-
+ 
+ Accessibility: By running the project through Lighthouse, I have confirmed that the chosen colors and font size are easy to read and accessible.
 ![App Screenshot](https://github.com/Filmon-gh/Delicous-Restuarant/blob/main/screenshots/lighthouse.JPG?raw=true)
 ![App Screenshot](https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/529d6e06d580f2639b1ad1c3b5c60c564e3fe14a/screenshots/cilighthouse.JPG)
 
