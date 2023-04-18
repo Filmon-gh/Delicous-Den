@@ -98,6 +98,14 @@ Additionally, the section is also designed to prominently display the operationa
  - User accounts and profile: 
         Permit users to set up profiles and accounts so that you may save their payment information, order history, and preferences for quicker checkout in the future.
 
+## Technology Used: 
+
+ - Visual Studio Code: Visual Studio Code  used as the primary code editor for this project with HTML and CSS. 
+
+ - GitHub: The project hosted on GitHub, a web-based hosting service for version control using Git. 
+
+ - Command Line Interface: The command line interface  used to connect GitHub and Visual Studio Code. This allowed for seamless collaboration between the two technologies, enabling to push changes to GitHub from the local machine and to pull changes from GitHub to the local machine. 
+
 ## Testing 
 
 During the development process, the web pages is thoroughly tested to ensure its reliability and usability.   
