@@ -53,12 +53,7 @@ The section also features two illustrative images that effectively convey the wa
 
  <img src="https://github.com/Filmon-gh/Delicous-Restuarant/blob/main/screenshots/customer%20feedback.JPG?raw=true"  height="250"/> 
 
-
-
-
-
-
-- The customer reviews section displays comments left by customers. This allows potential customers to get an insight into the dining experience and the quality of the food and service. The section displays reviews with dates, people's profile pictures, and their comments. 
+The customer reviews section displays comments left by customers. This allows potential customers to get an insight into the dining experience and the quality of the food and service. The section displays reviews with dates, people's profile pictures, and their comments. 
 
 
 - Customer reviews are displayed along with their profile picture, adding a personal touch and credibility to the feedback. 
