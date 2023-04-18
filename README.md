@@ -16,7 +16,7 @@ The user story for the development of the Delicious-Den website has been crafted
 
 - As a customer trying to find the restaurant's physical location and contact information, I want to be able to easily access the restaurant's address, phone number, email address, and social media accounts on the website, so that I can quickly and easily get in touch with the restaurant and navigate to the physical location. Additionally, I want to be able to view a map or directions to the restaurant, so that I can find it easily. 
 
-- As a first-time customer, I want to write a message to the restaurant's webpage to ask about their menu options and to write a message to the webpage to give feedback on my recent dining experience. 
+- As a first-time customer, I want to send a message to the restaurant's webpage to ask about their menu options and to give feedback on my recent dining experience. 
 
 
 # Features
@@ -25,11 +25,9 @@ The user story for the development of the Delicious-Den website has been crafted
 
 ![App Screenshot](https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/a0d2d47816406134f2a15b87923bae697fea800e/screenshotimge/1.%20logo%20and%20navigation.JPG)
 
-- The navigation menu consists of links to Home, About, Menu, and Contact  sections, making it easy for visitors to explore the website and find the information they are looking for.The navigation links stand out with clear and concise wording, visitors can quickly locate and navigate through the different sections of the website, which can enhance the user experience and promote customer engagement. 
+- The navigation menu consists of links to the Home, About, Menu, and Contact sections, making it easy for visitors to explore the website and find the information they are looking for. The navigation links stand out with clear and concise wording; visitors can quickly locate and navigate through the different sections of the website, which can enhance the user experience and promote customer engagement.
 
-- The logo are critical elements of the website's design is Located prominently on the left-hand side of the web page; serves as an important visual cue. Clicking on the logo redirects the visitor to the main home page, ensuring seamless and easy navigation throughout the website. 
-
-
+- The logo is one of the critical elements of the website's design. Located prominently on the left-hand side of the web page, it serves as an important visual cue. Clicking on the logo redirects the visitor to the main home page, ensuring seamless and easy navigation throughout the website. 
 
 
 ## Header 
@@ -51,14 +49,9 @@ The section also features two illustrative images that effectively convey the wa
 
 ## Customer Review
 
- <img src="https://github.com/Filmon-gh/Delicous-Restuarant/blob/main/screenshots/customer%20feedback.JPG?raw=true"  height="300"/> 
+ <img src="https://github.com/Filmon-gh/Delicous-Restuarant/blob/main/screenshots/customer%20feedback.JPG?raw=true"  height="250"/> 
 
-
-
-
-
-
-- The customer reviews section displays comments left by customers. This allows potential customers to get an insight into the dining experience and the quality of the food and service. The section displays reviews with dates, people's profile pictures, and their comments. 
+The customer reviews section displays comments left by customers. This allows potential customers to get an insight into the dining experience and the quality of the food and service. The section displays reviews with dates, people's profile pictures, and their comments. 
 
 
 - Customer reviews are displayed along with their profile picture, adding a personal touch and credibility to the feedback. 
@@ -83,7 +76,7 @@ The social media links Increase brand visibility, engagement with customers, and
 ## Contact Us 
 <img src="https://github.com/Filmon-gh/Delicous-Restuarant/blob/main/screenshots/5.Contact%20form.JPG?raw=true" width="350"  height="400" /> 
  - The contact Us form Provides an easy way for customers to get in touch:  It allows the restaurant to receive inquiries and feedback in a structured and organized manner. It can also be used to allow customers to make reservation requests. 
- The contact us form included on this webpage is comprised of fields for the user's full name, email address, phone number, and message, with all fields required for completion. 
+ - The contact us form included on this webpage is comprised of fields for the user's full name, email address, phone number, and message, with all fields required for completion. 
  Upon submission of the form, the user is presented with a confirmation message.
  
 ## Our location and hours
@@ -92,7 +85,7 @@ The social media links Increase brand visibility, engagement with customers, and
 The webpage features a dedicated section that showcases a Google Maps integration, providing users with an interactive and visually rich means of locating the Delicious-Den restaurant.Furthermore, this section contains a written account of the restaurant's address to enhance clarity and facilitate easy navigation for interested visitors. 
 Additionally, the section is also designed to prominently display the operational hours of the restaurant, thereby enabling prospective diners to plan their visit with greater convenience and precision. 
 
-### Features Left to Implement
+### Features to be added in the future
  - Online ordering and payment: 
             Implement an online ordering and payment system that enables consumers to place orders and pay for them directly on the restaurant's website.
  - User accounts and profile: 
@@ -126,7 +119,11 @@ During the testing process, I identified and resolved any issues related to the 
 
 ## Bugs
 
+When implementing the customer review section on the home page, I initially set the width and height of the profile pictures to be equal. However, this losses the quality of the images, which was reflected in a lower best practice report from Lighthouse.
+ <img src="https://raw.githubusercontent.com/Filmon-gh/Delicous-Den/13b975a8f606a13b5b2f3231e827bdfbefa4e87a/screenshots/bug.JPG" height="250"/> 
 
+
+To resolve this issue, I changed the aspect ratio of the width and height of the images based on the ratio of their original pixel size. This adjustment helped to maintain the quality of the images and resulted in clear profile pictures being displayed on the page.
 
 ## Validator Testing
  - HTML --fter running the code through the official W3C validator, no errors were found.
