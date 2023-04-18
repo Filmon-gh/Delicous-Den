@@ -112,6 +112,7 @@ During the development process, the web pages are thoroughly tested to ensure th
  - In addition, the submit button was also checked to ensure that the confirmation page was working correctly. This was done to ensure that users would receive a clear confirmation message after submitting the form, providing them with the necessary feedback. 
 
  - The Google Maps integration was tested on the web page to ensure the display of the correct location, street view, and directions functionality.   
+  - I conducted a cross-browser compatibility checking of the web page , utilizing  popular web browsers such as Microsoft Edge, Firefox, and Chrome.
 
 The responsiveness of the web pages is also thoroughly tested to ensure that they can be easily accessed and navigated on different devices. The testing process involved checking the layout and design of the website across a range of devices, including laptops, tablets, and smartphones, to ensure that users could access and interact with the website seamlessly. 
 
