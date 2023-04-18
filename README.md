@@ -8,11 +8,11 @@ Delicous-Den is a restaurant located in the city of Aachen, Germany, that offers
 ## User stories
 The user story for the development of the Delicious-Den website has been crafted to ensure that the website effectively meets the needs of its target audience. The following user stories have been identified: 
 
-- As a potential customer, I want to easily find the restaurant's menu, so that I can decide what to order and plan my meal ahead of time 
+- As a potential customer, I want to easily find the restaurant's menu, so that I can decide what to order and plan my meal ahead of time.
 
 - As a curious customer, I want to see quality photos of the restaurant's food, so that I can get a better sense of what to expect before I visit. 
 
-- As a customer looking for a restaurant to dine at, I want to be able to read reviews and ratings from previous customers on the website, so that I can get an idea of the quality of the food, service, and overall experience 
+- As a customer looking for a restaurant to dine at, I want to be able to read reviews and ratings from previous customers on the website, so that I can get an idea of the quality of the food, service, and overall experience.
 
 - As a customer trying to find the restaurant's physical location and contact information, I want to be able to easily access the restaurant's address, phone number, email address, and social media accounts on the website, so that I can quickly and easily get in touch with the restaurant and navigate to the physical location. Additionally, I want to be able to view a map or directions to the restaurant, so that I can find it easily. 
 
@@ -116,11 +116,11 @@ The responsiveness of the web pages is also thoroughly tested to ensure that the
 
 During the testing process, I identified and resolved any issues related to the responsiveness of the web pages layout and design.
 
-#Bugs
+# Bugs
 
 
 
-#Validator Testing
+## Validator Testing
  - HTML --fter running the code through the official W3C validator, no errors were found.
  - CSS --After running the code through the official (Jigsaw) alidator, no errors were found.
  - Accesibility -By running the project through Lighthouse, I have confirmed that the chosen colors and font size are easy to read and accessible.
@@ -129,7 +129,8 @@ During the testing process, I identified and resolved any issues related to the 
 ![App Screenshot](https://github.com/Filmon-gh/Delicous-Restuarant/blob/main/screenshots/lighthouse.JPG?raw=true)
 ![App Screenshot](https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/529d6e06d580f2639b1ad1c3b5c60c564e3fe14a/screenshots/cilighthouse.JPG)
 
-# Deployment 
-
+## Deployment 
+The website has been successfully deployed on GitHub Pages. Here are the steps that were followed to deploy the website:
+ - Navigated to the "Settings" page and select "Main" from the dropdown menu under "Source" to choose the main branch in the GitHub repository. Once selected on the main branch, GitHub Pages  provide a URL to the completed website.
 
  
