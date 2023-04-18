@@ -92,7 +92,7 @@ The social media links Increase brand visibility, engagement with customers, and
 The webpage features a dedicated section that showcases a Google Maps integration, providing users with an interactive and visually rich means of locating the Delicious-Den restaurant.Furthermore, this section contains a written account of the restaurant's address to enhance clarity and facilitate easy navigation for interested visitors. 
 Additionally, the section is also designed to prominently display the operational hours of the restaurant, thereby enabling prospective diners to plan their visit with greater convenience and precision. 
 
-## Features Left to Implement
+### Features Left to Implement
  - Online ordering and payment: 
             Implement an online ordering and payment system that enables consumers to place orders and pay for them directly on the restaurant's website.
  - User accounts and profile: 
