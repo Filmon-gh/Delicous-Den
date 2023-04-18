@@ -126,6 +126,7 @@ During the testing process, I identified and resolved any issues related to the 
 
 
 ![App Screenshot](https://github.com/Filmon-gh/Delicous-Restuarant/blob/main/screenshots/lighthouse.JPG?raw=true)
+![App Screenshot](https://github.com/Filmon-gh/Delicous-Restuarant/blob/main/screenshots/lighthouse.JPG?raw=true)
 
 
  
