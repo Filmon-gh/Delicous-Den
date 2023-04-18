@@ -21,7 +21,7 @@ The user story for the development of the Delicious-Den website has been crafted
 
 # Features
 
-### Navigation Link 
+## Navigation Link 
 
 ![App Screenshot](https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/a0d2d47816406134f2a15b87923bae697fea800e/screenshotimge/1.%20logo%20and%20navigation.JPG)
 
@@ -139,7 +139,7 @@ During the testing process, I identified and resolved any issues related to the 
 
 ## Deployment 
 The website has been successfully deployed on GitHub Pages. Here are the steps that were followed to deploy the website:
- - Navigated to the "Settings" page and select "Main" from the dropdown menu under "Source" to choose the main branch in the GitHub repository. Once selected on the main branch, GitHub Pages  provide a URL to the completed website.
+ - Navigates to the "Settings" page and select "Main" from the dropdown menu under "Source" to choose the main branch in the GitHub repository. Once selected on the main branch, GitHub Pages  provide a URL to the completed website.
 
 ## Credits 
 
