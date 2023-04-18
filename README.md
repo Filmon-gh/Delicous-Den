@@ -101,21 +101,21 @@ Additionally, the section is also designed to prominently display the operationa
 
 ## Testing 
 
-During the development process, the web pages is thoroughly tested to ensure its reliability and usability.   
+During the development process, the web pages are thoroughly tested to ensure their reliability and usability.   
 
  - The navigation links were tested to ensure that users could easily navigate through the website and find the relevant pages. It is also made sure that it is clearly visible to users on different devices. 
 
  - The social media icons were also tested to ensure that users could easily navigate through the website and access the social media pages. 
 
- - The Contact Us form tested to ensure that all fields were working correctly, and the form's data was also checked to ensure that it was properly checking for required fields and validating input data, such as email addresses and phone numbers. 
+ - The Contact Us form was tested to ensure that all fields were working correctly, and the form's data was also checked to ensure that it was properly checking for required fields and validating input data, such as email addresses and phone numbers. 
 
- - In addition, the Submit button also checked to ensure that the confirmation page is working correctly. This was done to ensure that users would receive a clear confirmation message after submitting the form, providing them with the necessary feedback. 
+ - In addition, the submit button was also checked to ensure that the confirmation page was working correctly. This was done to ensure that users would receive a clear confirmation message after submitting the form, providing them with the necessary feedback. 
 
- - The Google Maps integration tested in the web page to ensure the display of the correct location, street view, and directions functionality.   
+ - The Google Maps integration was tested on the web page to ensure the display of the correct location, street view, and directions functionality.   
 
 The responsiveness of the web pages is also thoroughly tested to ensure that they can be easily accessed and navigated on different devices. The testing process involved checking the layout and design of the website across a range of devices, including laptops, tablets, and smartphones, to ensure that users could access and interact with the website seamlessly. 
 
-During the testing process, I identified and resolved any issues related to the responsiveness of the web pages layout and design.
+During the testing process, I identified and resolved any issues related to the responsiveness of the web page's layout and design.
 
 ## Bugs
 
@@ -126,9 +126,9 @@ When implementing the customer review section on the home page, I initially set 
 To resolve this issue, I changed the aspect ratio of the width and height of the images based on the ratio of their original pixel size. This adjustment helped to maintain the quality of the images and resulted in clear profile pictures being displayed on the page.
 
 ## Validator Testing
- - HTML --fter running the code through the official W3C validator, no errors were found.
- - CSS --After running the code through the official (Jigsaw) alidator, no errors were found.
- - Accesibility -By running the project through Lighthouse, I have confirmed that the chosen colors and font size are easy to read and accessible.
+ - HTML : After running the code through the official W3C validator, no errors were found.
+ - CSS : After running the code through the official (Jigsaw) Validator, no errors were found.
+ - Accessibility: By running the project through Lighthouse, I have confirmed that the chosen colors and font size are easy to read and accessible.
 
 
 ![App Screenshot](https://github.com/Filmon-gh/Delicous-Restuarant/blob/main/screenshots/lighthouse.JPG?raw=true)
@@ -136,10 +136,11 @@ To resolve this issue, I changed the aspect ratio of the width and height of the
 
 ## Deployment 
 The website has been successfully deployed on GitHub Pages. Here are the steps that were followed to deploy the website:
- - Navigates to the "Settings" page and select "Main" from the dropdown menu under "Source" to choose the main branch in the GitHub repository. Once selected on the main branch, GitHub Pages  provide a URL to the completed website.
+ - Navigate to the "Settings" page and select "Main" from the dropdown menu under "Source" to choose the main branch in the GitHub repository. Once selected on the main branch, GitHub Pages  provides a URL to the completed website.
 
 ## Credits 
-
- - The code for creating social media links obtained from the [Love Running Solutions](https://github.com/Code-Institute-Solutions/Love-Running-Solutions) project.The navigation link was also made by referencing this project outline.
-  - The header image was sourced from [Dreamstime](https://www.dreamstime.com/), while the images for the About Us, Customer Service, and Menu sections were sourced from [pexels](https://www.pexels.com/).
+  
+  - The code for creating social media links was obtained from the [Love Running Solutions](https://github.com/Code-Institute-Solutions/Love-Running-Solutions)    project.The navigation link was also made by referencing this project outline.
+  
+  - The header image was sourced from Dreamstime, [Dreamstime](https://www.dreamstime.com/), while the images for the about us, customer service, and menu sections were sourced from Pexels[pexels](https://www.pexels.com/).
 
