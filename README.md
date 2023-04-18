@@ -120,6 +120,7 @@ During the testing process, I identified and resolved any issues related to the 
 ## Bugs
 
 When implementing the customer review section on the home page, I initially set the width and height of the profile pictures to be equal. However, this losses the quality of the images, which was reflected in a lower best practice report from Lighthouse.
+
  <img src="https://raw.githubusercontent.com/Filmon-gh/Delicous-Den/13b975a8f606a13b5b2f3231e827bdfbefa4e87a/screenshots/bug.JPG" height="250"/> 
 
 
@@ -129,7 +130,9 @@ To resolve this issue, I changed the aspect ratio of the width and height of the
  - HTML : After running the code through the official W3C validator, no errors were found.
  - CSS : After running the code through the official (Jigsaw) Validator, no errors were found.
  
- Accessibility: By running the project through Lighthouse, I have confirmed that the chosen colors and font size are easy to read and accessible.
+ Accessibility: By running the project through Lighthouse, I have confirmed that the chosen colors and font size 
+ are easy to read and accessible.
+ 
   <img src="https://github.com/Filmon-gh/Delicous-Den/blob/main/screenshots/lighthouse2.JPG?raw=true"  width="500"/>
   <img src="https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/529d6e06d580f2639b1ad1c3b5c60c564e3fe14a/screenshots/cilighthouse.JPG"/>
 
