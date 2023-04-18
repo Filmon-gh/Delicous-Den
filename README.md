@@ -143,9 +143,6 @@ The website has been successfully deployed on GitHub Pages. Here are the steps t
 
 ## Credits 
 
-The code for creating social media links obtained from the [Love Running Solutions](https://github.com/Code-Institute-Solutions/Love-Running-Solutions) project.The navigation link was also made by referencing this project outline.
-
-[Dreamstime](https://www.dreamstime.com/)
-[oexels](https://www.pexels.com/)
-
+ - The code for creating social media links obtained from the [Love Running Solutions](https://github.com/Code-Institute-Solutions/Love-Running-Solutions) project.The navigation link was also made by referencing this project outline.
+  - The header image was sourced from [Dreamstime](https://www.dreamstime.com/), while the images for the About Us, Customer Service, and Menu sections were sourced from [pexels](https://www.pexels.com/).
 
