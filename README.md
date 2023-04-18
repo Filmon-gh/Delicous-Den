@@ -123,10 +123,11 @@ During the testing process, I identified and resolved any issues related to the 
 #Validator Testing
  - HTML --fter running the code through the official W3C validator, no errors were found.
  - CSS --After running the code through the official (Jigsaw) alidator, no errors were found.
+ - Accesibility -By running the project through Lighthouse, I have confirmed that the chosen colors and font size are easy to read and accessible.
 
 
 ![App Screenshot](https://github.com/Filmon-gh/Delicous-Restuarant/blob/main/screenshots/lighthouse.JPG?raw=true)
-![App Screenshot](https://github.com/Filmon-gh/Delicous-Restuarant/blob/main/screenshots/cilighthouse.JPG?raw=true)
+![App Screenshot](https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/529d6e06d580f2639b1ad1c3b5c60c564e3fe14a/screenshots/cilighthouse.JPG)
 
 
  
