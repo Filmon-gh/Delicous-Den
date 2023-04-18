@@ -122,6 +122,8 @@ During the testing process, I identified and resolved any issues related to the 
 ## Bugs
 
 When implementing the customer review section on the home page, I initially set the width and height of the profile pictures to be equal. However, this losses the quality of the images, which was reflected in a lower best practice report from Lighthouse.
+ <img src="https://raw.githubusercontent.com/Filmon-gh/Delicous-Den/13b975a8f606a13b5b2f3231e827bdfbefa4e87a/screenshots/bug.JPG" height="250"/> 
+
 
 To resolve this issue, I changed the aspect ratio of the width and height of the images based on the ratio of their original pixel size. This adjustment helped to maintain the quality of the images and resulted in clear profile pictures being displayed on the page.
 
