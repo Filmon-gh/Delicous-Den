@@ -16,7 +16,7 @@ The user story for the development of the Delicious-Den website has been crafted
 
 - As a customer trying to find the restaurant's physical location and contact information, I want to be able to easily access the restaurant's address, phone number, email address, and social media accounts on the website, so that I can quickly and easily get in touch with the restaurant and navigate to the physical location. Additionally, I want to be able to view a map or directions to the restaurant, so that I can find it easily. 
 
-- As a first-time customer, I want to write a message to the restaurant's webpage to ask about their menu options and to write a message to the webpage to give feedback on my recent dining experience. 
+- As a first-time customer, I want to send a message to the restaurant's webpage to ask about their menu options and to give feedback on my recent dining experience. 
 
 
 # Features
@@ -25,11 +25,9 @@ The user story for the development of the Delicious-Den website has been crafted
 
 ![App Screenshot](https://raw.githubusercontent.com/Filmon-gh/Delicous-Restuarant/a0d2d47816406134f2a15b87923bae697fea800e/screenshotimge/1.%20logo%20and%20navigation.JPG)
 
-- The navigation menu consists of links to Home, About, Menu, and Contact  sections, making it easy for visitors to explore the website and find the information they are looking for.The navigation links stand out with clear and concise wording, visitors can quickly locate and navigate through the different sections of the website, which can enhance the user experience and promote customer engagement. 
+- The navigation menu consists of links to the Home, About, Menu, and Contact sections, making it easy for visitors to explore the website and find the information they are looking for. The navigation links stand out with clear and concise wording; visitors can quickly locate and navigate through the different sections of the website, which can enhance the user experience and promote customer engagement.
 
-- The logo are critical elements of the website's design is Located prominently on the left-hand side of the web page; serves as an important visual cue. Clicking on the logo redirects the visitor to the main home page, ensuring seamless and easy navigation throughout the website. 
-
-
+- The logo is one of the critical elements of the website's design. Located prominently on the left-hand side of the web page, it serves as an important visual cue. Clicking on the logo redirects the visitor to the main home page, ensuring seamless and easy navigation throughout the website. 
 
 
 ## Header 
